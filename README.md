@@ -5,7 +5,7 @@
 
 # UI
 
-![例子](ui.png)
+![例子](src\components\ShortcutKeyFocus\UI.png)
 
 # 如何使用
 

@@ -19,7 +19,7 @@
 ```
 # 效果演示
  
-![image]()
+![image](https://github.com/yinhongGITHUB/ShortcutKeyFocusComponentPackage/blob/main/src/components/ShortcutKeyFocus/resultsShow.gif)
 
 # 使用步骤：
 

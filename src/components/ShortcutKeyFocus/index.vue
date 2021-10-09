@@ -8,7 +8,7 @@
       这里是快捷键焦点组件（一般不显示在页面上，使用时请清空）
     </div>
 
-    <input @keyup.stop="handlePressTheShortcutKey" id="myInput" />
+    <input readonly="readonly" @keyup.stop="handlePressTheShortcutKey" id="myInput" />
   </div>
 </template>
 <script>
